@@ -1,4 +1,4 @@
-# dotent-console-game-example
+# dotnet-console-game-example
 * you can move up and down with the up/W and down/S keys
 * when the game is over pressing "y" restarts or pressing "n" stop.
 ### Gameplay Video
